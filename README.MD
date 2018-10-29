@@ -1,2 +1,1 @@
-#Contenido del curso Big Data for Business de la fundacion telefonica
-
+#Contenido del curso de Big data for business
